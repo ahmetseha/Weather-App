@@ -1,0 +1,19 @@
+.forecast{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+   
+}
+.days{
+    margin: 15px;
+    border-radius: 10px;
+    background-color: #92d3d4;
+
+}
+.content{
+    padding: 10px;
+}
+.date{
+    text-align: center;
+}
