@@ -1,5 +1,5 @@
 import axios from "axios";
-const apiKey = process.env.REACT_APP_API;
+const apiKey = process.env.REACT_APP_API_KEY;
 const urlToFetch = "https://api.weatherbit.io/v2.0/forecast/daily?city=";
 
 export const search = async (searchKey) => {
